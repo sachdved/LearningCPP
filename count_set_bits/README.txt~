@@ -1,0 +1,5 @@
+problem: given a number N, find how many times 1 appears in its binary representation
+alternative framing: calculate number of set bits of a number
+example:
+input: 5 -> 101 -> output: 2
+input: 7 -> 111 -> output: 3
