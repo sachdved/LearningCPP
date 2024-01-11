@@ -1,0 +1,1 @@
+compute power of function
