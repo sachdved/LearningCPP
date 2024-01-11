@@ -1,0 +1,1 @@
+Though I've been experienced in python for a while and have some good familiarity with C++, I have no formal training in any coding language whatsoever. So I've decided to take on some formal training in C++ as a means of addressing the gaps in my knowledge
